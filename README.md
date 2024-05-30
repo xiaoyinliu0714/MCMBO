@@ -52,10 +52,10 @@ python eval.py --task [task name] --choice attack --attack_mode [attack type] --
 ## Citation
 If you find MICRO helpful for your work, please cite:
 ```
-@article{liu2023micro,
+@inproceedings{liu2024micro,
   title={MICRO: Model-Based Offline Reinforcement Learning with a Conservative Bellman Operator},
   author={Liu, Xiao-Yin and Zhou, Xiao-Hu and Li, Guo-Tao and Li, Hao and Gui, Mei-Jiang and Xiang, Tian-Yu and Huang, De-Xing and Hou, Zeng-Guang},
-  journal={arXiv preprint arXiv:2312.03991},
-  year={2023}
+  booktitle={33th International Joint Conference on Artificial Intelligence},
+  year={2024}
 }
 ```
